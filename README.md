@@ -2,7 +2,7 @@
 
 Hello, I am a seventh-semester computer engineering student. I am excited to contribute to the open-source and enginnering community and learn from other developers.
 
-## Skills 👋
+## Skills 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -11,10 +11,6 @@ Hello, I am a seventh-semester computer engineering student. I am excited to con
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Description Language
-
-VHDL
-
 ### Development Tools
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio-venturi) 
@@ -22,14 +18,19 @@ VHDL
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-### Technologies
-
-Android and IOS Development, Machine Learning, Computer Vision and Digital Systems Design
-
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.venturi.pereira@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sergio_venturii?igshid=ZDdkNTZiNTM=)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-venturi-pereira-8523221a6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-venturi&layout=compact)](https://github.com/sergio-venturi/github-readme-stats)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-venturi&show_icons=true&theme=transparent)
+
+
+### Another Technologies 💻🔨🚀
+
+Android and IOS Development, Machine Learning, Computer Vision and Digital Systems Design
+
+### Description Language
+
+VHDL
