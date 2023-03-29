@@ -2,7 +2,7 @@
 
 Hello, I am a seventh-semester computer engineering student. I am excited to contribute to the open-source and enginnering community and learn from other developers.
 
-## Skills 
+## 🚀 Skills 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -24,10 +24,13 @@ Hello, I am a seventh-semester computer engineering student. I am excited to con
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sergio_venturii?igshid=ZDdkNTZiNTM=)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-venturi-pereira-8523221a6)
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-venturi&show_icons=true&theme=transparent)
+## 📊 GitHub Stats
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-venturi&show_icons=true&theme=transparent&include_all_commits=false&count_private=true)] ![](https://github-readme-streak-stats.herokuapp.com/?user=sergio-venturi&theme=transparent)<br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sergio-venturi&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### Another Technologies 💻🔨🚀
+### Another Technologies 
 
 Android and IOS Development, Machine Learning, Computer Vision and Digital Systems Design
 
