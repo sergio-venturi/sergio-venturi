@@ -25,7 +25,7 @@ Hello, I am a seventh-semester computer engineering student. I am excited to con
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-venturi-pereira-8523221a6)
 
 ## 📊 GitHub Stats
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-venturi&show_icons=true&theme=transparent&include_all_commits=false&count_private=true)] ![](https://github-readme-streak-stats.herokuapp.com/?user=sergio-venturi&theme=transparent)<br/>
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-venturi&show_icons=true&theme=transparent&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=sergio-venturi&theme=transparent)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sergio-venturi&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
